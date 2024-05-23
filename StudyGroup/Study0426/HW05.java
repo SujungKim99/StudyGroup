@@ -1,6 +1,5 @@
 package StudyGroup.Study0426;
 
-import Entity.InfoCreat;
 
 import java.util.Scanner;
 

@@ -4,7 +4,7 @@ package StudyGroup.Study0520;
 //id : ben || pw : benKing00
 //id : tom || pw : 9999to99m
 
-import JavaInterface.A;
+
 
 import java.util.ArrayList;
 

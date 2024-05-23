@@ -1,6 +1,5 @@
 package StudyGroup.Study0430;
 
-import JavaInterface.A;
 
 import java.util.Arrays;
 
