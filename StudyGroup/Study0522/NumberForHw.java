@@ -3,6 +3,8 @@ package StudyGroup.Study0522;
 import java.util.Scanner;
 
 public class NumberForHw {
+
+
     // 번외. 사용자에게 값 1개를 입력받는 메서드
     public int inputNum() {
        //System.out.println("[사용자에게 값 1개를 입력받는 메서드를 실행]합니다.");
