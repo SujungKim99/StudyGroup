@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ee52180-7dc7-4df6-b238-4eb555f7b669" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StudyGroup/Study0523/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyGroup/Study0524/HW01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyGroup/Study0524/HW02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyGroup/Study0524/Students.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyGroup/Study0522/NumberForHw.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyGroup/Study0522/NumberForHw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyGroup/Study0523/HW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyGroup/Study0523/HW01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
       </set>
     </attachedChunks>
   </component>
