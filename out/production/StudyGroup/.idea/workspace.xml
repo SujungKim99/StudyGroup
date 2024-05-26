@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ee52180-7dc7-4df6-b238-4eb555f7b669" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/StudyGroup/Study0524/HW01.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyGroup/Study0524/HW01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyGroup/Study0524/HW02.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyGroup/Study0524/HW02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyGroup/Study0524/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyGroup/Study0524/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyGroup/Study0401/TimeAttact01.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyGroup/Study0401/TimeAttact01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +38,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HW01.executor": "Run",
+    "Application.HW02.executor": "Run",
     "Application.HW03.executor": "Run",
     "Application.HW05.executor": "Run",
+    "Application.TimeAttact01.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",

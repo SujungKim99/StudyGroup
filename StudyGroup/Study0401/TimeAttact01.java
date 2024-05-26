@@ -1,5 +1,6 @@
 package StudyGroup.Study0401;
 
+import java.util.Random;
 import java.util.Scanner;
 
 /*
@@ -10,5 +11,26 @@ import java.util.Scanner;
  */
 public class TimeAttact01 {
     public static void main(String[] args) {
+        System.out.println("1~100까지의 숫자중 하나를 입력하시오.");
+        Scanner scanner = new Scanner(System.in);
+        Random random = new Random();
+        int randomNum = random.nextInt(1,100);
+        System.out.println(randomNum);
+        int count = 0;
+        int userNum;
+        for (int i = 0; ; i++) {
+            userNum = scanner.nextInt();
+            if (0 < userNum && userNum <= 100) {
+                count++;
+                if (userNum == randomNum) {
+                    System.out.println("시도 횟수 : " + count);
+                    System.out.println("정답 : " + userNum);
+                    break;
+                }
+                System.out.println("틀렸습니다. 다시 입력해주세요. (횟수+1)");
+            } else {
+                System.out.println("Error : 입력범위초과");
+            }
+        }
     }
 }
