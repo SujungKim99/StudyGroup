@@ -7,7 +7,6 @@ public class HW01 {
         String name = students.name = "Alex";
         int age = students.age = 26;
         String region = students.region = "대전";
-
 //        System.out.println(name);
 //        System.out.println(age);
 //        System.out.println(region);

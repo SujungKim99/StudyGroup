@@ -1,4 +1,7 @@
 package StudyGroup;
+
+import StudyGroup.Study0524.Students;
+
 class A {
     public int addNum(int a, int b) {
         return a + b;

@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ee52180-7dc7-4df6-b238-4eb555f7b669" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/StudyGroup/Study0401/TimeAttact01.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyGroup/Study0401/TimeAttact01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyGroup/Study0415/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyGroup/Study0415/Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Example.executor": "Run",
     "Application.HW01.executor": "Run",
     "Application.HW02.executor": "Run",
     "Application.HW03.executor": "Run",
@@ -47,7 +49,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/Documents/GitHub/StudyGroup"
+    "last_opened_file_path": "C:/Users/admin/Documents/Github/spring/gameshop"
   }
 }]]></component>
   <component name="SharedIndexes">
