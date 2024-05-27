@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ee52180-7dc7-4df6-b238-4eb555f7b669" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StudyGroup/Study0528/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyGroup/Study0528/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyGroup/Study0528/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyGroup/Study0528/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudyGroup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StudyGroup/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudyGroup/StudyGroup/Study0528/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StudyGroup/StudyGroup/Study0528/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudyGroup/StudyGroup/Study0528/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StudyGroup/StudyGroup/Study0528/Student.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
