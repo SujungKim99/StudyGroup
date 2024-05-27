@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ee52180-7dc7-4df6-b238-4eb555f7b669" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyGroup/Study0415/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyGroup/Study0415/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyGroup/Study0528/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyGroup/Study0528/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,22 +36,22 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Example.executor": "Run",
-    "Application.HW01.executor": "Run",
-    "Application.HW02.executor": "Run",
-    "Application.HW03.executor": "Run",
-    "Application.HW05.executor": "Run",
-    "Application.TimeAttact01.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/admin/Documents/Github/spring/gameshop"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TimeAttact01.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Documents/Github/spring/gameshop&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
